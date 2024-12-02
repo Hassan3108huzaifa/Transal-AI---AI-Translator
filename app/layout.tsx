@@ -19,7 +19,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Transal AI - AI Translator",
-  description: "Translate text using AI with Transal AI",
+  description: "Translate text using AI with Transal AI - Transal AI is a free AI Translator that can translate text from one language to another - made with 💖 by HassanRJ",
 };
 
 export default function RootLayout({
